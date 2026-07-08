@@ -1,4 +1,4 @@
-# 🧠 Sentiment Analysis in Python (with TextBlob)
+# 🧠 Sentiment Analysis  (with TextBlob)
 
 This is a simple Python project for analyzing sentiment (Positive / Negative / Neutral) from English text using the free and offline **TextBlob** library.
 
